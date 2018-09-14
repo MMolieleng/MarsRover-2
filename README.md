@@ -13,9 +13,9 @@ I implemented JUnit 5 as testing framework to ensure the correctness of written 
 
 ## Input File 
 The input file should be of the following format
-8 10
-3 3 E
-MMRMMRMRRM
+8 10 <br/>
+3 3 E <br/>
+MMRMMRMRRM <br/>
 
 Where the first line indicates the size of a map, second line indicate the coordinates where the Rover starts, and the third line is a list of commands to be executed by the Rover 
 
