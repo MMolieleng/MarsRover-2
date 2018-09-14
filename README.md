@@ -8,8 +8,16 @@ from the input and then the appropriate method call is made when such command is
 The Rover is not allowed to move in restricted areas, therefore the code will return error message if the rover is not within the allowed area.
 However, the rover can be positioned in any place on the map or zone but it will be stuck there. 
 
-# Correctness Testing
+## Correctness Testing
 I implemented JUnit 5 as testing framework to ensure the correctness of written code
+
+## Input File 
+The input file should be of the following format
+8 10
+3 3 E
+MMRMMRMRRM
+
+Where the first line indicates the size of a map, second line indicate the coordinates where the Rover starts, and the third line is a list of commands to be executed by the Rover 
 
 # How To Run This Program
 ## Requirements
