@@ -12,7 +12,7 @@ However, the rover can be positioned in any place on the map or zone but it will
 I implemented JUnit 5 as testing framework to ensure the correctness of written code
 
 ## Input File 
-The input file should be of the following format
+The input file should be of the following format <br/>
 8 10 <br/>
 3 3 E <br/>
 MMRMMRMRRM <br/>
